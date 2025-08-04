@@ -1,0 +1,42 @@
+[
+	{
+		"file": "E:\\UE_Games\\ObstacleAssaultTuto\\Source\\ObstacleAssaultTuto\\MovingPlatform.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\UE_Games\\ObstacleAssaultTuto\\.vscode\\compileCommands_ObstacleAssaultTuto\\ObstacleAssaultTuto.1.rsp"
+		],
+		"directory": "E:\\UE_5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "E:\\UE_Games\\ObstacleAssaultTuto\\Source\\ObstacleAssaultTuto\\MovingPlatform.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\UE_Games\\ObstacleAssaultTuto\\.vscode\\compileCommands_ObstacleAssaultTuto\\ObstacleAssaultTuto.1.rsp"
+		],
+		"directory": "E:\\UE_5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "E:\\UE_Games\\ObstacleAssaultTuto\\Source\\ObstacleAssaultTuto\\ObstacleAssaultTuto.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\UE_Games\\ObstacleAssaultTuto\\.vscode\\compileCommands_ObstacleAssaultTuto\\ObstacleAssaultTuto.1.rsp"
+		],
+		"directory": "E:\\UE_5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "E:\\UE_Games\\ObstacleAssaultTuto\\Source\\ObstacleAssaultTuto\\ObstacleAssaultTuto.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\UE_Games\\ObstacleAssaultTuto\\.vscode\\compileCommands_ObstacleAssaultTuto\\ObstacleAssaultTuto.1.rsp"
+		],
+		"directory": "E:\\UE_5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "E:\\UE_Games\\ObstacleAssaultTuto\\Source\\ObstacleAssaultTuto\\ObstacleAssaultTuto.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\UE_Games\\ObstacleAssaultTuto\\.vscode\\compileCommands_ObstacleAssaultTuto\\ObstacleAssaultTuto.1.rsp"
+		],
+		"directory": "E:\\UE_5.5\\UE_5.5\\Engine\\Source"
+	}
+]
